@@ -7,7 +7,7 @@ pipeline{
                        stage ("stage-1"){
                           steps {
  
-                                      echo "This is stage one"
+                                      echo "This is master branch"
 
                                     }
 
